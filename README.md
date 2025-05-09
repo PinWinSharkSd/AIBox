@@ -5,7 +5,7 @@ how to use?:
 import and create new ai class and neural network:
 ```python
 import aibox
-ai = aibox()
+ai = aibox.aibox()
 ai.custom_model(vocab_size=100, d_model=100)
 ```
 now you need to text data!, after getting your data init data to model:
