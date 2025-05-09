@@ -2,6 +2,14 @@
 is very simple LLM text generator with pytorch in python
 build on FNet's neural network's
 how to use?:
+first please install dependencys:
+```bash
+pip install numpy torch
+```
+on termux :
+```bash
+apt install python-numpy python-torch
+```
 import and create new ai class and neural network:
 ```python
 import aibox
