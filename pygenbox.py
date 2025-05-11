@@ -1,5 +1,5 @@
 ﻿"""
-    AIBox Tech.
+    PyGenBox Tech.
     is a very simple AI Text Generator Engine.
     By Ali Hosain Ali
     Tell me your suggestion on (alihosainale@gmail.com)
